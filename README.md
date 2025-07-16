@@ -28,7 +28,7 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek Anda:
    pkg install npm
 3. Clone repository:
    ```bash
-  git clone https://github.com/alwayslanz2/attack-web.git
+   git clone https://github.com/alwayslanz2/attack-web.git
 4. Run:
    ```bash
    cd attack-web

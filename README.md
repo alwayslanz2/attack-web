@@ -28,10 +28,10 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek Anda:
    pkg install npm
 3. Clone repository:
    ```bash
-   git clone https://github.com/zallmacodex/zallmaddos
+  git clone https://github.com/alwayslanz2/attack-web.git
 4. Run:
    ```bash
-   cd zallmaddos
+   cd attack-web
 5. Install:
    ```bash
    npm install chalk axios 
